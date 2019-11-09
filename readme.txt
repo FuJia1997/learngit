@@ -7,4 +7,4 @@ i am master/dev
 工作中......
 这是master/feature分支
 分支管理策略
-我是我自己
+我是我自己/小伙伴1号
